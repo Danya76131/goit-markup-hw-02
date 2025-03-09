@@ -20,7 +20,7 @@ a {
     color: #2e2f42;
 }
 .nav-link .link {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -48,12 +48,13 @@ a {
   }
   .section-one .title {
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
   }
   .butt {
+    font-family: "Roboto",sans-serif;
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -88,7 +89,7 @@ a {
   }
   .section-three .title-main {
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -111,7 +112,7 @@ a {
   .section-four .title-main {
     text-transform: capitalize;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
